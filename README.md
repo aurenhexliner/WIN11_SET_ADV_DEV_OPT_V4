@@ -1,7 +1,7 @@
 WINDOWS 11 - USB & NETWORK ADAPTER OPTIMIZATION
 
 PowerShell script prepared for easy and quick optimization
-of advanced device configuration settings:
+of advanced devices configuration settings:
 
 - Intel(R) Wi-Fi 6E AX210 160MHz 
   (PCI\VEN_8086&DEV_2725&SUBSYS_00248086&REV_1A\4&1E1F98A2&0&00E8)
