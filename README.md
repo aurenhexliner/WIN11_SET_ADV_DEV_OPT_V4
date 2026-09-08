@@ -3,8 +3,8 @@ WINDOWS 11 - USB & NETWORK ADAPTER OPTIMIZATION
 PowerShell script prepared for easy and quick optimization
 of advanced devices configuration settings:
 
-- Intel(R) Wi-Fi 6E AX210 160MHz 
-  (PCI\VEN_8086&DEV_2725&SUBSYS_00248086&REV_1A\4&1E1F98A2&0&00E8)
+- Intel(R) Wi-Fi 6E AX210 160MHz
+  PCI\VEN_8086&DEV_2725&SUBSYS_00248086&REV_1A\4&1E1F98A2&0&00E8
 
 - Realtek Gaming 2.5GbE Family Controller
   PCI\VEN_10EC&DEV_8125&SUBSYS_E0001458&REV_05\01000000684CE00000
