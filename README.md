@@ -50,5 +50,10 @@ REALTEK:
   - Speed & Duplex -> 2.5 Gbps Full Duplex
   - Priority & VLAN -> Priority Enabled
 
-   1. PowerShell .ps1 script
-   2. Executable, GUI version (WinUI 3) - RAR archive
+DOWNLOAD:
+
+1. PowerShell .ps1 script
+   https://github.com/aurenhexliner/WIN11_SET_ADV_DEV_OPT_V4/blob/main/WIN11_SET_ADV_DEV_OPT_NET_USB_PWR_V4b.ps1
+   
+3. Executable, GUI version (WinUI 3) - RAR archive
+   https://github.com/aurenhexliner/WIN11_SET_ADV_DEV_OPT_V4/blob/46f8788fbe791a6e954b5683a9ebe94a2aa03a24/WIN11_SET_ADV_DEV_OPT_NET_USB_PWR_V4b_WINUI3.rar
