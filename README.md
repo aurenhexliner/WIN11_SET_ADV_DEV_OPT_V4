@@ -19,14 +19,13 @@ Additionally disables the USB power saving feature
 HOW TO RUN:
 
 1. Run script from Windows Terminal or PowerShell as administrator. Check rights to execute script first:
-   Go to:
-      Windows Settings -> System -> Advanced -> Terminal -> Powershell (check option to run scripts without signing).
+   (Windows Settings -> System -> Advanced -> Terminal -> Powershell (check option to run scripts without signing)
    Open Windows Terminal as administrator and set execution policy to "Unrestricted" typing:
       Set-ExecutionPolicy Unrestricted
    Run script:
       ./WIN11_SET_ADV_DEV_OPT_NET_USB_PWR_V4b.ps1
-      
-2. Just try EXEcutable/GUI version (WinUI 3) - RAR archive:
+
+2. Try EXEcutable/GUI version (WinUI 3) - RAR archive:
    https://github.com/aurenhexliner/WIN11_SET_ADV_DEV_OPT_V4/blob/46f8788fbe791a6e954b5683a9ebe94a2aa03a24/WIN11_SET_ADV_DEV_OPT_NET_USB_PWR_V4b_WINUI3.rar
 
 ----------
