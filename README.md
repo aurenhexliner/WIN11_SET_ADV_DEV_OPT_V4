@@ -14,6 +14,7 @@ of advanced devices configuration settings:
 Additionally disables the USB power saving feature 
 (USB Selective Suspend)
 
+----------
 
 HOW TO RUN:
 
@@ -22,6 +23,7 @@ HOW TO RUN:
 2. Try executable GUI version (WinUI 3) - RAR archive:
    https://github.com/aurenhexliner/WIN11_SET_ADV_DEV_OPT_V4/blob/46f8788fbe791a6e954b5683a9ebe94a2aa03a24/WIN11_SET_ADV_DEV_OPT_NET_USB_PWR_V4b_WINUI3.rar
 
+----------
 
 About all features:
 
@@ -49,6 +51,8 @@ REALTEK:
   - Wake-on-LAN related options -> Disabled / optimized
   - Speed & Duplex -> 2.5 Gbps Full Duplex
   - Priority & VLAN -> Priority Enabled
+
+----------
 
 DOWNLOAD:
 
