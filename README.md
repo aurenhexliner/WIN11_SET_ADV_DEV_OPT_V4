@@ -25,8 +25,8 @@ HOW TO RUN:
       Set-ExecutionPolicy Unrestricted
    Run script:
       ./WIN11_SET_ADV_DEV_OPT_NET_USB_PWR_V4b.ps1
-
-3. Just try EXEcutable/GUI version (WinUI 3) - RAR archive:
+      
+2. Just try EXEcutable/GUI version (WinUI 3) - RAR archive:
    https://github.com/aurenhexliner/WIN11_SET_ADV_DEV_OPT_V4/blob/46f8788fbe791a6e954b5683a9ebe94a2aa03a24/WIN11_SET_ADV_DEV_OPT_NET_USB_PWR_V4b_WINUI3.rar
 
 ----------
