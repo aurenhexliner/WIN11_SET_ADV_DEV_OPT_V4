@@ -20,8 +20,8 @@ This script also disables USB power saving (USB Selective Suspend).
    Set-ExecutionPolicy Unrestricted
 
 Run the script:
-  PowerShell
-  .\WIN11_SET_ADV_DEV_OPT_NET_USB_PWR_V4b.ps1
+   PowerShell
+   .\WIN11_SET_ADV_DEV_OPT_NET_USB_PWR_V4b.ps1
 
 
 2. Alternative:
