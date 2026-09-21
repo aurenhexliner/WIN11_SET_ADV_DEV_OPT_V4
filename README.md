@@ -17,8 +17,10 @@ Additionally disables the USB power saving feature
 
 HOW TO RUN:
 
-Run script from Windows Terminal or PowerShell as administrator. Check rights to execute script first: 
-Go to (Windows Settings -> System -> Advanced -> Terminal -> Powershell) and check option to run scripts without signing.
+1. Run script from Windows Terminal or PowerShell as administrator. Check rights to execute script first: 
+   Go to (Windows Settings -> System -> Advanced -> Terminal -> Powershell) and check option to run scripts without signing.
+2. Try executable GUI version (WinUI 3) - RAR archive:
+   https://github.com/aurenhexliner/WIN11_SET_ADV_DEV_OPT_V4/blob/46f8788fbe791a6e954b5683a9ebe94a2aa03a24/WIN11_SET_ADV_DEV_OPT_NET_USB_PWR_V4b_WINUI3.rar
 
 
 About all features:
@@ -47,3 +49,6 @@ REALTEK:
   - Wake-on-LAN related options -> Disabled / optimized
   - Speed & Duplex -> 2.5 Gbps Full Duplex
   - Priority & VLAN -> Priority Enabled
+
+   1. PowerShell .ps1 script
+   2. Executable, GUI version (WinUI 3) - RAR archive
